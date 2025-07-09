@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Azure%20Static%20Web%20Apps-blue.svg)](https://lemon-desert-09938a003-preview.westeurope.1.azurestaticapps.net)
 
-## 🌟 **[Live Demo - Access the GenAI Roadmap Now!](https://lemon-desert-09938a003.1.azurestaticapps.net)**
+## 🌟 **[Live Demo - Access the GenAI Roadmap Now!](https://lemon-desert-09938a003-preview.westeurope.1.azurestaticapps.net)**
 
 ## Overview
 This comprehensive roadmap is designed for experienced cloud solution architects looking to become expert GenAI architects across multiple cloud platforms (Microsoft Azure, AWS, Google Cloud).
