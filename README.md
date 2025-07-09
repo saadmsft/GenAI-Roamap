@@ -3,7 +3,7 @@
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fyourusername%2Fgenai-roadmap%2Fmain%2Fazure-deploy.json)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/yourusername/genai-roadmap)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Azure%20Static%20Web%20Apps-blue.svg)](https://lemon-desert-09938a003.1.azurestaticapps.net)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Azure%20Static%20Web%20Apps-blue.svg)](https://lemon-desert-09938a003-preview.westeurope.1.azurestaticapps.net)
 
 ## 🌟 **[Live Demo - Access the GenAI Roadmap Now!](https://lemon-desert-09938a003.1.azurestaticapps.net)**
 
